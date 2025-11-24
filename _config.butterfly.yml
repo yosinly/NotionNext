@@ -935,7 +935,7 @@ mermaid:
   # Write Mermaid diagrams using code blocks
   code_write: false
   # built-in themes: default / forest / dark / neutral
-  theme:
+  theme: butterfly
     light: default
     dark: dark
 
